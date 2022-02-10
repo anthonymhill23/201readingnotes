@@ -4,7 +4,7 @@
 
 
 
-2.[Class 02 notes](class-02.md) 
+2. [Class 02 notes](class-02.md) 
 
 3. [Class 03 notes](class-03.md)
 
