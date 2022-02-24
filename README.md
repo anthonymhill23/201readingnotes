@@ -22,6 +22,8 @@
 
 
 
-[class13]   (class13.md)
+[class-13]   (class13.md)
 
-[class14b](class14b.md)
+[Class-14-a] (class14a.md)
+
+[class-14-b](class14b.md)
