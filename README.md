@@ -1,4 +1,24 @@
-# 201readingnotes# 201readingnotes
+
+# Reading Notes Repo for Code Fellow 201-401
+
+
+
+<p> Hello All, this is my repo of notes for code fellows *** 201 through 401 ***, from basic to intermediate to advacnced programming.<br>
+I Hope that By having these notes, I can help both you and I with any issues or observations I make through this learning journal.</p>
+
+## 102 Reading Notes
+
+
+
+
+
+
+
+
+
+
+
+## 201 Reading Notes
 
 1. Class 01 notes
 
@@ -22,8 +42,11 @@
 
 
 
-[class-13]   (class13.md)
+[class-13](class13.md)
 
-[Class-14-a] (class14a.md)
+[Class-14-a](class14a.md)
 
 [class-14-b](class14b.md)
+
+
+## 301 reading Notes
