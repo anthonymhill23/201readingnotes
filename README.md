@@ -18,7 +18,7 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 
 
-## 201 Reading Notes
+## 201 Reading Notes - Basic software Defelopment
 
 1. Class 01 notes
 
@@ -36,17 +36,27 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 
 
-[class 07 ](class-07.md)
+7.[class 07 ](class-07.md)
 
 
 
 
 
-[class-13](class13.md)
+8.[class-13](class13.md)
 
 [Class-14-a](class14a.md)
 
 [class-14-b](class14b.md)
 
 
-## 301 reading Notes
+## 301 reading Notes-Intermediate Software Development
+
+
+
+
+
+
+
+
+
+## 401 Reading Notes-Advanced Software Development
