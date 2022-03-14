@@ -44,14 +44,14 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 8.[class-13](class13.md)
 
-[Class-14-a](class14a.md)
+9.[Class-14-a](class14a.md)
 
-[class-14-b](class14b.md)
+10.[class-14-b](class14b.md)
 
 
 ## 301 reading Notes-Intermediate Software Development
 
-
+1.[301read01.md](301read01.md)
 
 
 
