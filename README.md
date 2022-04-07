@@ -24,7 +24,7 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 
 
-2. [Class 02 notes](class-02.md) 
+2. [Class 02 notes](201class-02.md) 
 
 3. [Class 03 notes](class-03.md)
 
