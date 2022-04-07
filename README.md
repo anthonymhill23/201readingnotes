@@ -52,6 +52,7 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 ## 301 reading Notes-Intermediate Software Development
 
 1.[301read01.md](301read01.md)
+2.[302read02.md](301read02.md)
 
 
 
