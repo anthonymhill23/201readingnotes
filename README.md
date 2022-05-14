@@ -133,3 +133,7 @@ A Relational DB uses structure to relate data in the DB to other data, allowing 
   ![16](./Screenshots/lesson-16-sqlbolt.png)
   ![17](./Screenshots/lesson-17-sqlbolt.png)
   ![18](./Screenshots/lesson-18-sqlbolt.png)
+
+  ### Terminal 
+
+  [Terminal-commands](./Terminal.md)
