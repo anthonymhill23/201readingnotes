@@ -73,3 +73,63 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 ## 401 Reading Notes-Advanced Software Development-Python
 1.[401read01.md](401read01.md)
+
+
+
+
+
+
+
+
+
+
+## SQL Notes so far. 
+[https://sqlbolt.com/] 
+[https://www.codecademy.com/article/what-is-rdbms-sql]
+[https://www.oracle.com/database/what-is-a-relational-database/]
+
+### What is #SQL?
+
+SQL (structured query language) designed to allow users to easily access data from a relational DB
+
+### What is a relational DB?
+A Relational DB uses structure to relate data in the DB to other data, allowing us to acces data based on how it related to other data in the database. 
+
+- this is often stored in tables.
+
+#### Examples of some popular raltional DB management systems
+
+#MySQL
+	- most popular open source DB. 
+	- easy to use
+	- large community
+	- can suffer poor performance when scaling. 
+
+#oracle_db 
+	- not open source
+	- commonly used in banking
+	- can be very expensive
+	
+#SQL_Server
+	- owned by microsoft
+	- not open source
+
+#SQLite
+	- open source
+	- can store entire DB in a single file
+	
+
+  ### Proof of completion 
+
+  ![1](./Screenshots/lesson-1-sqlbolt.png)
+  ![2](./Screenshots/lesson-2-sqlbolt.png)
+  ![3](./Screenshots/lesson-3-sqlbolt.png)
+  ![4](./Screenshots/lesson-4-sqlbolt.png)
+  ![5](./Screenshots/lesson-5-sqlbolt.png)
+  ![6](./Screenshots/lesson-6-snip%20sqlbolt.png)
+  ![13](./Screenshots/lesson-13-sqlbolt.png)
+  ![14](./Screenshots/lesson-14-sqlbolt.png)
+  ![15](./Screenshots/lesson-15-sqlbolt.png)
+  ![16](./Screenshots/lesson-16-sqlbolt.png)
+  ![17](./Screenshots/lesson-17-sqlbolt.png)
+  ![18](./Screenshots/lesson-18-sqlbolt.png)
