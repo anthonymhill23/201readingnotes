@@ -35,3 +35,6 @@ Linux systems are Case Sensitive File is different than filE
 Quotes around directories with spaces and to create things with spaces. Either that or escape the whitespace character
 
 Rightclick is copy/paste in Ubuntu
+
+
+All notes were taken from provided material
