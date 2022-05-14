@@ -38,3 +38,13 @@ Rightclick is copy/paste in Ubuntu
 
 
 All notes were taken from provided material
+
+ [CMDLine](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+[More about Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+[File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php)
+
+[Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
