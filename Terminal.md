@@ -1,4 +1,4 @@
-# COMMAND LINE
+# Terminal
 
 ## Unix/Linux Environment Cheat Sheet
 
