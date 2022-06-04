@@ -51,20 +51,20 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 ## 301 reading Notes-Intermediate Software Development
 
-1.[301read01.md](301read01.md)
-2.[302read02.md](301read02.md)
-3.[301read03.md](301read03.md)
-4.[301read04.md](301read04.md)
-5.[301read05.md](301read05.md)
-6.[301read06.md](301read06.md)
-7.[301read07.md](301read07.md)
-8.[301read08.md](301read08.md)
-9.[301read09.md](301read09.md)
-10.[301read10.md](301read10.md)
-11.[301read11.md](301read11.md)
-12.[301read12.md](301read12.md)
-13.[301read13.md](301read13.md)
-14.[301read14.md](301read14.md)
+1.[301read01.md](301read01.md)<br>
+2.[302read02.md](301read02.md)<br>
+3.[301read03.md](301read03.md)<br>
+4.[301read04.md](301read04.md)<br>
+5.[301read05.md](301read05.md)<br>
+6.[301read06.md](301read06.md)<br>
+7.[301read07.md](301read07.md)<br>
+8.[301read08.md](301read08.md)<br>
+9.[301read09.md](301read09.md)<br>
+10.[301read10.md](301read10.md)<br>
+11.[301read11.md](301read11.md)<br>
+12.[301read12.md](301read12.md)<br>
+13.[301read13.md](301read13.md)<br>
+14.[301read14.md](301read14.md)<br>
 15.[301read15.md](301read15.md)
 
 
@@ -72,8 +72,13 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 
 ## 401 Reading Notes-Advanced Software Development-Python
-1.[401read01.md](401read01.md)
+1.[401read01.md](401read01.md)<br>
+2.[401read02.md](401read02.md)<br>
 
+3.[]<br>
+4.[401read04.md](401read04.md)
+
+6.[401read06.md](401read06.md)
 
 
 
