@@ -80,6 +80,8 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 6.[401read06.md](401read06.md)
 
+7.[401read07.md](401read07.md)
+
 
 
 
