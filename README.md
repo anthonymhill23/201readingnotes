@@ -49,6 +49,8 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 10.[class-14-b](class14b.md)
 
 
+
+
 ## 301 reading Notes-Intermediate Software Development
 
 1.[301read01.md](301read01.md)<br>
@@ -81,6 +83,8 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 6.[401read06.md](401read06.md)
 
 7.[401read07.md](401read07.md)
+
+8.[401read08.md](401read08.md)
 
 
 
