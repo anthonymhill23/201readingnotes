@@ -98,7 +98,8 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 14.[401read14.md](401read14.md)
 15.[401read15.md](401read15.md)
 
-17.[401read17.md]
+17.[401read17.md](401read17.md)
+18.[401read18.md](401read18.md)
 
 
 
