@@ -100,6 +100,7 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 17.[401read17.md](401read17.md)
 18.[401read18.md](401read18.md)
+19.[401read19.md](401read19.md)
 
 
 
