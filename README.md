@@ -107,6 +107,13 @@ I Hope that By having these notes, I can help both you and I with any issues or 
 
 
 
+??.[401readhashtables](401readhashtable.md)
+
+
+
+
+
+
 
 
 
